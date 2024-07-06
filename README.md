@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+git remote add origin https://github.com/elefante16/elefante16.git
+git branch -M main
+git push -u origin main
